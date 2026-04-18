@@ -16,7 +16,7 @@ This repository contains the ongoing implementation of a 4-phase pipeline:
 
 ## 🚀 Current Status (Work-in-Progress)
 - [x] Phase 1: Data Extraction & Environment Setup
-- [ ] Phase 2: GPU-Accelerated Matrix Computation (In Progress via Google Colab)
+- [x] Phase 2: GPU-Accelerated Matrix Computation (In Progress via Google Colab)
 - [ ] Phase 3: Clustering Analysis
 - [ ] Phase 4: Final Evaluation
 
